@@ -1,0 +1,13 @@
+{
+    "name": "bousselham/mvc_training",
+    "require": {},
+    "autoload": {
+        "files": [
+            "app/config/config.php",
+            "app/helpers.php"
+        ],
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
